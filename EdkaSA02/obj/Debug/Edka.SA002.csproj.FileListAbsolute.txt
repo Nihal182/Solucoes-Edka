@@ -1,0 +1,8 @@
+C:\Users\Nayara\Desktop\Projetos\Edka\Edka.SA002\obj\Debug\Edka.SA002.csproj.AssemblyReference.cache
+C:\Users\Nayara\Desktop\Projetos\Edka\Edka.SA002\obj\Debug\Edka.SA002.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nayara\Desktop\Projetos\Edka\Edka.SA002\obj\Debug\Edka.SA002.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Desktop\Projetos\Edka\Edka.SA002\bin\Debug\Edka.SA002.exe.config
+C:\Users\Nayara\Desktop\Projetos\Edka\Edka.SA002\bin\Debug\Edka.SA002.exe
+C:\Users\Nayara\Desktop\Projetos\Edka\Edka.SA002\bin\Debug\Edka.SA002.pdb
+C:\Users\Nayara\Desktop\Projetos\Edka\Edka.SA002\obj\Debug\Edka.SA002.exe
+C:\Users\Nayara\Desktop\Projetos\Edka\Edka.SA002\obj\Debug\Edka.SA002.pdb
